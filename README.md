@@ -24,21 +24,9 @@ Auto Translator is a powerful desktop application that provides real-time text t
   - Googletrans
   - input
 
-## Installation
-
-1. Clone the repository or download the source code
-2. Install the required packages:
-``` party
-pip install keyboard pyperclip googletrans==3.1.0a0 pynput
-```
-
 ## Use
 
 1. Run the program:
-``` party
-python autotranslator.py
-```
-
 2. Select your desired source and target languages ​​from the dropdown menu
 3. Use the following keyboard shortcut:
    - `Ctrl + Space`: Translate selected text
