@@ -11,6 +11,7 @@ To download the Auto Translator application, click the link below:
 
 ## Demo
 https://github.com/user-attachments/assets/215b9c0a-a45c-431d-968e-0853188d7e89
+
 ![image](https://github.com/user-attachments/assets/ef0748cc-bb30-49c7-af08-e60c58ec3dcf)
 
 
