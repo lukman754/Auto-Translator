@@ -1,0 +1,32 @@
+### Bahasa Indonesia  
+Auto Translator adalah aplikasi desktop yang kuat yang menyediakan terjemahan teks secara real-time dengan deteksi bahasa otomatis. Ini memungkinkan pengguna untuk dengan cepat menerjemahkan teks yang dipilih di berbagai aplikasi menggunakan pintasan keyboard.
+
+---
+
+### Français (Prancis)  
+Auto Translator est une application de bureau puissante qui offre une traduction de texte en temps réel avec une détection automatique de la langue. Cela permet aux utilisateurs de traduire rapidement le texte sélectionné dans diverses applications à l'aide de raccourcis clavier.
+
+---
+
+### Español (Spanyol)  
+Auto Translator es una aplicación de escritorio potente que ofrece traducción de texto en tiempo real con detección automática de idioma. Esto permite a los usuarios traducir rápidamente el texto seleccionado en varias aplicaciones usando atajos de teclado.
+
+---
+
+### Deutsch (Jerman)  
+Auto Translator ist eine leistungsstarke Desktop-Anwendung, die Echtzeit-Textübersetzung mit automatischer Spracherkennung bietet. Damit können Benutzer schnell ausgewählten Text in verschiedenen Anwendungen mithilfe von Tastenkombinationen übersetzen.
+
+---
+
+### عربى (Arab)  
+برنامج Auto Translator هو تطبيق سطح مكتب قوي يوفر ترجمة النصوص في الوقت الفعلي مع اكتشاف اللغة تلقائيًا. يتيح للمستخدمين ترجمة النصوص المختارة بسرعة في تطبيقات مختلفة باستخدام اختصارات لوحة المفاتيح.
+
+---
+
+### 日本語 (Jepang)  
+Auto Translatorは、リアルタイムのテキスト翻訳を自動言語検出機能で提供する強力なデスクトップアプリケーションです。これにより、ユーザーはキーボードショートカットを使用して、さまざまなアプリケーションで選択したテキストを迅速に翻訳できます。
+
+---
+
+### Italiano (Italia)  
+Auto Translator è un'applicazione desktop potente che offre la traduzione del testo in tempo reale con rilevamento automatico della lingua. Consente agli utenti di tradurre rapidamente il testo selezionato in varie applicazioni utilizzando scorciatoie da tastiera.
