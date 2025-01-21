@@ -36,8 +36,8 @@ https://github.com/user-attachments/assets/215b9c0a-a45c-431d-968e-0853188d7e89
 1. Run the program:
 2. Select your desired source and target languages ​​from the dropdown menu
 3. Use the following keyboard shortcut:
-   - `Ctrl + Space`: Translate selected text
-   - `Ctrl + Shift + Space`: Switches source and target languages
+   - `Ctrl + ;`: Translate selected text
+   - `Ctrl + Shift + ;`: Switches source and target languages
    - `Ctrl + Shift + Q`: Exit the program
 
 ## How It Works
