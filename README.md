@@ -1,6 +1,13 @@
 # Automatic Translator
 
 Auto Translator is a powerful desktop application that provides real-time text translation with automatic language detection. This allows users to quickly translate selected text in various applications using keyboard shortcuts.
+![image](https://github.com/user-attachments/assets/ef0748cc-bb30-49c7-af08-e60c58ec3dcf)
+
+## Demo
+https://github.com/user-attachments/assets/215b9c0a-a45c-431d-968e-0853188d7e89
+
+
+
 
 ## Feature
 
